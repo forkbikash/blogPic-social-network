@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+.mb-5{
+    margin-bottom: 5px;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+
+.mr-10{
+    margin-right: 10px;
+}
+
+.ml-5{
+    margin-left: 5px;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-70{
+    width: 70%;
+}
+
+.w-60{
+    width: 60%;
+}
+
+.maxw-60{
+    max-width: 60%;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.w-45{
+    width: 45%;
+}
+
+.h-50vh{
+    height: 50vh;
+}
+
+.minh-50vh{
+    min-height: 50vh;
+}
+
+.h-100p{
+    height: 100%;
+}
+
+.maxh-100p{
+    max-height: 100%;
+}
+
+.h-50p{
+    height: 50%;
+}
+
+.h-40p{
+    height: 40%;
+}
+
+.h-60p{
+    height: 60%;
+}
+
+.maxh-60p{
+    max-height: 60%;
+}
+
+.minh-60p{
+    min-height: 60%;
+}
+
+.h-80p{
+    height: 80%;
+}
+
+.h-400px{
+    height: 400px;
+}
+
+.txt-align-left{
+    text-align: left;
+}
+
+.ls-2{
+    letter-spacing: 0.2em;
+}
+
+.border-radius-50p{
+    border-radius: 50%;
+}
+
+.bg-gray
+{
+    background-color: rgb(214, 214, 214) !important;
+}
+
+.bg-blue
+{
+    background-color: blue !important;
+}
+
+.card-custom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 400px;
+    text-align: center;
+}
+
+.card-container{
+    height: 80vh;
+}
+
+.nav-wrapper{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.brand-logo{
+    font-family: 'Grand Hotel', cursive;
+}
+
+img{
+    max-height: 60vh;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+#toast-container{
+    top:50px;
+}
+
+.material-icons{
+    cursor:pointer;
+}
+
+.collection .collection-item{
+    float: none;
+}
+
+.collection{
+    border: none;
+}
